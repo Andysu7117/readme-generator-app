@@ -22,6 +22,7 @@ function renderLicenseSection(license) {
   if (license && license !== 'No License') {
     return `## License
 ${renderLicenseBadge(license)}
+
 ${renderLicenseLink(license)}`;
   }
   return '';
