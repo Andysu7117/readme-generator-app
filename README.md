@@ -19,7 +19,13 @@ The dependencies for this project is Inquirer at version 8.2.4, installation ins
 Once installed you can use the application by entering the repository location using your CLI. Once entered into the repository you can run the application by entering node .\index.js in the CLI.
 Once run a series of prompts will be shown in the CLI. Once all the prompts have been answered a readme file will be produced with all the information that the user inputted to answer the prompts.
 A video instruction of how to run the application can be found here:
-<video src="images/Recording%202023-07-23%20173908.mp4" controls title="Title"></video>
+
+
+https://github.com/Andysu7117/readme-generator-app/assets/104291853/cf76a441-33eb-474b-8cc0-4450cf7f3e8b
+
+
+
+
 
 This will produce a readme file in the readmefiles folder as shown here:
 
