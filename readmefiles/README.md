@@ -1,4 +1,4 @@
-# Example
+# Example Title
 
 ## Description
 
@@ -15,7 +15,7 @@ Example Description
 
 ## Installation
 
-Example installation
+Example Installation
 
 ## Usage
 
@@ -29,13 +29,14 @@ Licensed under the MIT license.
 
 ## Contributing
 
-Example contribtuion
+Example Contribution
 
 ## Tests
 
-Example test
+Example Instructions
 
 ## Questions
 
-For any questions about this project, please contact exampleemail@example.com.
+For any questions about this project, please contact example@example.com.
+
 [Github Profile](https://github.com/exampleusername)
