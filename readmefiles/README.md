@@ -1,8 +1,8 @@
-# asdasf
+# Example
 
 ## Description
 
-asfsaf
+Example Description
 
 ## Table of Contents
 
@@ -15,11 +15,11 @@ asfsaf
 
 ## Installation
 
-safsafsaf
+Example installation
 
 ## Usage
 
-safsaf
+Example usage
 
 ## License
 
@@ -29,13 +29,13 @@ Licensed under the MIT license.
 
 ## Contributing
 
-asdfsa
+Example contribtuion
 
 ## Tests
 
-asfsaf
+Example test
 
 ## Questions
 
-For any questions about this project, please contact asfas.
-[Github Profile](https://github.com/asff)
+For any questions about this project, please contact exampleemail@example.com.
+[Github Profile](https://github.com/exampleusername)
